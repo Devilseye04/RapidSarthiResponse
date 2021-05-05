@@ -1,0 +1,10 @@
+body{
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+.container{
+    display: block;
+}
